@@ -1,0 +1,1856 @@
+[
+    {
+        "id": 157,
+        "codigo": "272",
+        "descricao": "AGK Corretora de Câmbio S.A.",
+        "logo": "https://atibaiaeregiao.com.br/wp-content/uploads/2018/02/AGK_transparente.gif"
+    },
+    {
+        "id": 182,
+        "codigo": "313",
+        "descricao": "AMAZÔNIA Corretora de Câmbio LTDA.",
+        "logo": "https://amzcambio.com.br/wp-content/uploads/2019/12/logo-1.png"
+    },
+    {
+        "id": 195,
+        "codigo": "332",
+        "descricao": "Acesso Soluções de Pagamento S.A.",
+        "logo": "https://avatars.githubusercontent.com/u/22644589?s=200&v=4"
+    },
+    {
+        "id": 78,
+        "codigo": "117",
+        "descricao": "Advanced Cc Ltda",
+        "logo": "https://blog.advancedcorretora.com.br/hubfs/logo-footer.png"
+    },
+    {
+        "id": 110,
+        "codigo": "172",
+        "descricao": "Albatross Ccv S.A.",
+        "logo": "https://placehold.co/400"
+    },
+    {
+        "id": 118,
+        "codigo": "188",
+        "descricao": "Ativa S.A Investimentos",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 163,
+        "codigo": "280",
+        "descricao": "Avista S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 45,
+        "codigo": "080",
+        "descricao": "B&T Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 15,
+        "codigo": "021",
+        "descricao": "BANESTES S.A. (Banco do Estado do Espírito Santo)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 38,
+        "codigo": "073",
+        "descricao": "BB Banco Popular do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 43,
+        "codigo": "078",
+        "descricao": "BES Investimento do Brasil S.A. (Banco de Investimento)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 94,
+        "codigo": "134",
+        "descricao": "BGC Liquidez Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 5,
+        "codigo": "007",
+        "descricao": "BNDES (Banco Nacional Do Desenvolvimento Social)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 282,
+        "codigo": "752",
+        "descricao": "BNP Paribas Brasil S.A. - Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 35,
+        "codigo": "069",
+        "descricao": "BPN Brasil Banco Múltiplo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 177,
+        "codigo": "301",
+        "descricao": "BPP Instituição De Pagamentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 86,
+        "codigo": "126",
+        "descricao": "BR Partners Banco de Investimento S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 36,
+        "codigo": "070",
+        "descricao": "BRB (Banco de Brasília S.A.)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 111,
+        "codigo": "173",
+        "descricao": "BRL Trust Dtvm Sa",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 171,
+        "codigo": "292",
+        "descricao": "BS2 Distribuidora De Títulos E Investimentos",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 273,
+        "codigo": "654",
+        "descricao": "Banco A.J. Renner S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 142,
+        "codigo": "246",
+        "descricao": "Banco ABC Brasil S.A.",
+        "logo": "https://www.abcbrasil.com.br/media/2011/logoabc.svg"
+    },
+    {
+        "id": 82,
+        "codigo": "121",
+        "descricao": "Banco Agibank S.A.",
+        "logo": "https://logospng.org/download/agibank/logo-agibank-icon-4096.png"
+    },
+    {
+        "id": 17,
+        "codigo": "025",
+        "descricao": "Banco Alfa S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 269,
+        "codigo": "641",
+        "descricao": "Banco Alvorada S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 128,
+        "codigo": "213",
+        "descricao": "Banco Arbi S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 14,
+        "codigo": "019",
+        "descricao": "Banco Azteca do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 309,
+        "codigo": "96",
+        "descricao": "Banco B3 S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 73,
+        "codigo": "107",
+        "descricao": "Banco BBM S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 62,
+        "codigo": "096",
+        "descricao": "Banco BM&F de Serviços de Liquidação e Custódia S.A",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 184,
+        "codigo": "318",
+        "descricao": "Banco BMG S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 132,
+        "codigo": "218",
+        "descricao": "Banco BS2 S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 126,
+        "codigo": "208",
+        "descricao": "Banco BTG Pactual S.A.",
+        "logo": "https://www.btgpactual.com/assets/images/svg/btg-logo-white.svg"
+    },
+    {
+        "id": 26,
+        "codigo": "044",
+        "descricao": "Banco BVA S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 18,
+        "codigo": "029",
+        "descricao": "Banco Banerj S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 1,
+        "codigo": "000",
+        "descricao": "Banco Bankpar S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 193,
+        "codigo": "330",
+        "descricao": "Banco Bari de Investimentos e Financiamentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 236,
+        "codigo": "394",
+        "descricao": "Banco Bcn Triangulo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 19,
+        "codigo": "031",
+        "descricao": "Banco Beg S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 308,
+        "codigo": "R4",
+        "descricao": "Banco Boa Vista Interatlântico S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 143,
+        "codigo": "248",
+        "descricao": "Banco Boavista Interatlântico S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 33,
+        "codigo": "065",
+        "descricao": "Banco Bracce S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 21,
+        "codigo": "036",
+        "descricao": "Banco Bradesco BBI S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 83,
+        "codigo": "122",
+        "descricao": "Banco Bradesco BERJ S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 125,
+        "codigo": "204",
+        "descricao": "Banco Bradesco Cartões S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 237,
+        "codigo": "395",
+        "descricao": "Banco Bradesco Financiamentos S.A.",
+        "logo": "https://next.me/_/assets/images/next_digital_whitebg.png"
+    },
+    {
+        "id": 139,
+        "codigo": "237",
+        "descricao": "Banco Bradesco S.A.",
+        "logo": "https://logodownload.org/wp-content/uploads/2018/09/bradesco-logo-novo-2018.png"
+    },
+    {
+        "id": 135,
+        "codigo": "225",
+        "descricao": "Banco Brascan S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 197,
+        "codigo": "336",
+        "descricao": "Banco C6 S.A.",
+        "logo": "https://s3.amazonaws.com/gt7sp-prod/decal/48/20/72/6927116837774722048_1.png"
+    },
+    {
+        "id": 291,
+        "codigo": "806",
+        "descricao": "Banco C6 S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 40,
+        "codigo": "075",
+        "descricao": "Banco CR2 S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 150,
+        "codigo": "263",
+        "descricao": "Banco Cacique S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 248,
+        "codigo": "465",
+        "descricao": "Banco Caixa Geral - Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 243,
+        "codigo": "412",
+        "descricao": "Banco Capital S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 289,
+        "codigo": "802",
+        "descricao": "Banco Capital S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 24,
+        "codigo": "040",
+        "descricao": "Banco Cargill S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 217,
+        "codigo": "368",
+        "descricao": "Banco Cc S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 140,
+        "codigo": "241",
+        "descricao": "Banco Clássico S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 288,
+        "codigo": "800",
+        "descricao": "Banco Coface do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 130,
+        "codigo": "215",
+        "descricao": "Banco Comercial e de Investimento Sudameris S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 280,
+        "codigo": "748",
+        "descricao": "Banco Cooperativo Sicredi S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 286,
+        "codigo": "756",
+        "descricao": "Banco Cooperativo do Brasil S.A. - BANCOOB",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 133,
+        "codigo": "222",
+        "descricao": "Banco Credit Agricole Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 256,
+        "codigo": "505",
+        "descricao": "Banco Credit Suisse (Brasil) S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 136,
+        "codigo": "229",
+        "descricao": "Banco Cruzeiro do Sul S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 152,
+        "codigo": "266",
+        "descricao": "Banco Cédula S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 300,
+        "codigo": "831",
+        "descricao": "Banco Daimlerchrysler S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 275,
+        "codigo": "707",
+        "descricao": "Banco Daycoval S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 129,
+        "codigo": "214",
+        "descricao": "Banco Dibens S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 196,
+        "codigo": "335",
+        "descricao": "Banco Digio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 123,
+        "codigo": "196",
+        "descricao": "Banco Fair Cc S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 151,
+        "codigo": "265",
+        "descricao": "Banco Fator S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 134,
+        "codigo": "224",
+        "descricao": "Banco Fibra S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 265,
+        "codigo": "626",
+        "descricao": "Banco Ficsa S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 59,
+        "codigo": "094",
+        "descricao": "Banco Finaxis",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 305,
+        "codigo": "899",
+        "descricao": "Banco Foxbit S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 138,
+        "codigo": "233",
+        "descricao": "Banco GE Capital S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 262,
+        "codigo": "612",
+        "descricao": "Banco Guanabara S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 31,
+        "codigo": "063",
+        "descricao": "Banco Ibi S.A. Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 259,
+        "codigo": "604",
+        "descricao": "Banco Industrial do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 186,
+        "codigo": "320",
+        "descricao": "Banco Industrial e Comercial S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 272,
+        "codigo": "653",
+        "descricao": "Banco Indusval S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 266,
+        "codigo": "630",
+        "descricao": "Banco Intercap S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 42,
+        "codigo": "077",
+        "descricao": "Banco Intermedium S.A.",
+        "logo": "https://sinpefmg.org.br/wp-content/uploads/2023/03/logo-banco-inter.png"
+    },
+    {
+        "id": 298,
+        "codigo": "829",
+        "descricao": "Banco Investcred Unibanco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 144,
+        "codigo": "249",
+        "descricao": "Banco Investcred Unibanco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 250,
+        "codigo": "479",
+        "descricao": "Banco ItauBank S.A.",
+        "logo": "https://logospng.org/download/itau/logo-itau-2048.png"
+    },
+    {
+        "id": 117,
+        "codigo": "184",
+        "descricao": "Banco Itaú BBA S.A.",
+        "logo": "https://logospng.org/download/itau/logo-itau-2048.png"
+    },
+    {
+        "id": 39,
+        "codigo": "074",
+        "descricao": "Banco J. Safra S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 223,
+        "codigo": "376",
+        "descricao": "Banco J.P. Morgan S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 292,
+        "codigo": "807",
+        "descricao": "Banco J.Safra S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 131,
+        "codigo": "217",
+        "descricao": "Banco John Deere S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 41,
+        "codigo": "076",
+        "descricao": "Banco KDB S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 302,
+        "codigo": "858",
+        "descricao": "Banco Keb Hana do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 258,
+        "codigo": "600",
+        "descricao": "Banco Luso Brasileiro S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 306,
+        "codigo": "R1",
+        "descricao": "Banco Léon D.equador S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 127,
+        "codigo": "212",
+        "descricao": "Banco Original S.A.",
+        "logo": "https://conteudos.xpi.com.br/wp-content/uploads/2019/07/original-logo.png"
+    },
+    {
+        "id": 235,
+        "codigo": "392",
+        "descricao": "Banco Mercantil de Investimentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 234,
+        "codigo": "389",
+        "descricao": "Banco Mercantil do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 278,
+        "codigo": "746",
+        "descricao": "Banco Modal S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 304,
+        "codigo": "889",
+        "descricao": "Banco Moneo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 290,
+        "codigo": "805",
+        "descricao": "Banco Morada S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 34,
+        "codigo": "066",
+        "descricao": "Banco Morgan Stanley S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 141,
+        "codigo": "243",
+        "descricao": "Banco Máxima S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 241,
+        "codigo": "407",
+        "descricao": "Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 75,
+        "codigo": "111",
+        "descricao": "Banco Oliveira Trust Dtvm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 109,
+        "codigo": "169",
+        "descricao": "Banco Olé Bonsucesso Consignado S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 27,
+        "codigo": "045",
+        "descricao": "Banco Opportunity S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 44,
+        "codigo": "079",
+        "descricao": "Banco Original do Agronegócio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 276,
+        "codigo": "712",
+        "descricao": "Banco Ourinvest S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 264,
+        "codigo": "623",
+        "descricao": "Banco Pan S.A.",
+        "logo": "https://ri.bancopan.com.br/images/logo-banco-pan.png"
+    },
+    {
+        "id": 261,
+        "codigo": "611",
+        "descricao": "Banco Paulista S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 60,
+        "codigo": "094-2",
+        "descricao": "Banco Petra S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 270,
+        "codigo": "643",
+        "descricao": "Banco Pine S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 295,
+        "codigo": "817",
+        "descricao": "Banco Prudential do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 279,
+        "codigo": "747",
+        "descricao": "Banco Rabobank International Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 54,
+        "codigo": "088",
+        "descricao": "Banco Randon S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 303,
+        "codigo": "888",
+        "descricao": "Banco Randon S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 267,
+        "codigo": "633",
+        "descricao": "Banco Rendimento S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 293,
+        "codigo": "812",
+        "descricao": "Banco Rendimentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 81,
+        "codigo": "120",
+        "descricao": "Banco Rodobens S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 37,
+        "codigo": "072",
+        "descricao": "Banco Rural Mais S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 245,
+        "codigo": "453",
+        "descricao": "Banco Rural S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 244,
+        "codigo": "422",
+        "descricao": "Banco Safra S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 20,
+        "codigo": "033",
+        "descricao": "Banco Santander (Brasil) S.A.",
+        "logo": "https://www.santander.com.br/sites/WPC_CMS/imagem/22-08-16_175326_M_logo-santander.svg"
+    },
+    {
+        "id": 145,
+        "codigo": "250",
+        "descricao": "Banco Schahin S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 46,
+        "codigo": "081",
+        "descricao": "Banco Seguro S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 284,
+        "codigo": "754",
+        "descricao": "Banco Sistema S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 212,
+        "codigo": "363",
+        "descricao": "Banco Soft Cdt S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 8,
+        "codigo": "012",
+        "descricao": "Banco Standard de Investimentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 247,
+        "codigo": "464",
+        "descricao": "Banco Sumitomo Mitsui Brasileiro S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 48,
+        "codigo": "082",
+        "descricao": "Banco Topázio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 233,
+        "codigo": "388",
+        "descricao": "Banco Toyota do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 13,
+        "codigo": "018",
+        "descricao": "Banco Tricury S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 268,
+        "codigo": "634",
+        "descricao": "Banco Triângulo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 299,
+        "codigo": "830",
+        "descricao": "Banco Urquijo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 260,
+        "codigo": "610",
+        "descricao": "Banco VR S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 274,
+        "codigo": "655",
+        "descricao": "Banco Votorantim S.A.",
+        "logo": "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/01/BV-1.jpg"
+    },
+    {
+        "id": 80,
+        "codigo": "119",
+        "descricao": "Banco Western Union do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 84,
+        "codigo": "124",
+        "descricao": "Banco Woori Bank Do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 3,
+        "codigo": "003",
+        "descricao": "Banco da Amazônia S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 49,
+        "codigo": "083",
+        "descricao": "Banco da China Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 176,
+        "codigo": "300",
+        "descricao": "Banco de La Nacion Argentina",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 254,
+        "codigo": "494",
+        "descricao": "Banco de La Republica Oriental del Uruguay",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 16,
+        "codigo": "024",
+        "descricao": "Banco de Pernambuco S.A. (BANDEPE)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 246,
+        "codigo": "456",
+        "descricao": "Banco de Tokio-Mitsubishi UFJ Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 2,
+        "codigo": "001",
+        "descricao": "Banco do Brasil S.A.",
+        "logo": "https://blog.bb.com.br/wp-content/themes/pbb_theme/img/logo-amarela.png"
+    },
+    {
+        "id": 28,
+        "codigo": "047",
+        "descricao": "Banco do Estado de Sergipe S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 22,
+        "codigo": "037",
+        "descricao": "Banco do Estado do Pará S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 23,
+        "codigo": "039",
+        "descricao": "Banco do Estado do Piauí S.A. (BEP)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 25,
+        "codigo": "041",
+        "descricao": "Banco do Estado do Rio Grande do Sul S.A.",
+        "logo": "https://ri.banrisul.com.br/wp-content/themes/mziq_banrisul_2020/img/banrisul_logo.png"
+    },
+    {
+        "id": 4,
+        "codigo": "004",
+        "descricao": "Banco do Nordeste do Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 296,
+        "codigo": "818",
+        "descricao": "Banco for International Development (Bradesco BID S.A.)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 285,
+        "codigo": "755",
+        "descricao": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 153,
+        "codigo": "268",
+        "descricao": "Barigui Companhia Hipotecária",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 307,
+        "codigo": "M3",
+        "descricao": "Barter Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 101,
+        "codigo": "144",
+        "descricao": "Bexs Banco De Cambio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 146,
+        "codigo": "253",
+        "descricao": "Bexs Cc S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 12,
+        "codigo": "017",
+        "descricao": "Bny Mellon Banco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 85,
+        "codigo": "125",
+        "descricao": "Brasil Plural S.A Banco",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 57,
+        "codigo": "092",
+        "descricao": "Brickell S.A. Crédito, financiamento e Investimento",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 99,
+        "codigo": "142",
+        "descricao": "Broker Brasil Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 7,
+        "codigo": "011",
+        "descricao": "C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 180,
+        "codigo": "309",
+        "descricao": "CAMBIONET Corretora de Câmbio LTDA.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 189,
+        "codigo": "324",
+        "descricao": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 114,
+        "codigo": "180",
+        "descricao": "CM Capital Markets Cctvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 6,
+        "codigo": "010",
+        "descricao": "CREDICOAMO (Crédito Rural Cooperativa)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 71,
+        "codigo": "104",
+        "descricao": "Caixa Econômica Federal",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 294,
+        "codigo": "816",
+        "descricao": "Cambio Real S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 297,
+        "codigo": "828",
+        "descricao": "Cardif S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 168,
+        "codigo": "288",
+        "descricao": "Carol Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 90,
+        "codigo": "130",
+        "descricao": "Caruana Scfi",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 106,
+        "codigo": "159",
+        "descricao": "Casa do Crédito S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 11,
+        "codigo": "016",
+        "descricao": "Ccm Desp Trâns SC E RS",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 162,
+        "codigo": "279",
+        "descricao": "Ccr De Primavera Do Leste",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 158,
+        "codigo": "273",
+        "descricao": "Ccr De São Miguel Do Oeste",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 77,
+        "codigo": "114",
+        "descricao": "Central Cooperativa de Crédito no Estado do Espírito Santo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 277,
+        "codigo": "745",
+        "descricao": "Citi Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 249,
+        "codigo": "477",
+        "descricao": "Citibank N.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 224,
+        "codigo": "378",
+        "descricao": "Cobre Bem Tecnologia Ltda.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 87,
+        "codigo": "127",
+        "descricao": "Codepe Cvc S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 107,
+        "codigo": "163",
+        "descricao": "Commerzbank Brasil S.A Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 47,
+        "codigo": "081-7",
+        "descricao": "Concórdia Banco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 29,
+        "codigo": "060",
+        "descricao": "Confidence Corretora de Câmbio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 63,
+        "codigo": "097",
+        "descricao": "Cooperativa Central de Crédito Noroeste Brasileiro Ltda.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 51,
+        "codigo": "085",
+        "descricao": "Cooperativa Central de Crédito Urbano (CECRED)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 67,
+        "codigo": "099-x",
+        "descricao": "Cooperativa Central de Economia e Crédito Mútuo das Unicreds",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 53,
+        "codigo": "087",
+        "descricao": "Cooperativa Unicred Central Santa Catarina",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 164,
+        "codigo": "281",
+        "descricao": "Cooperativa de Crédito Rural Coopavel",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 230,
+        "codigo": "384",
+        "descricao": "Cooperativa de Crédito Rural Coopervil",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 222,
+        "codigo": "374",
+        "descricao": "Cooperativa de Crédito Rural Crediaucb",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 220,
+        "codigo": "372",
+        "descricao": "Cooperativa de Crédito Rural De Ouro Sulcredi/Ouro",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 231,
+        "codigo": "385",
+        "descricao": "Cooperativa de Crédito Rural De Rio Do Sul",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 55,
+        "codigo": "089",
+        "descricao": "Cooperativa de Crédito Rural da Região de Mogiana",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 187,
+        "codigo": "322",
+        "descricao": "Cooperativa de Crédito Rural de Abelardo Luz (Sulcredi/Crediluz)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 221,
+        "codigo": "373",
+        "descricao": "Cooperativa de Crédito Rural de Abelardo Luz (Sulcredi/Crediluz)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 167,
+        "codigo": "286",
+        "descricao": "Cooperativa de Crédito Rural de De Ouro",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 219,
+        "codigo": "370",
+        "descricao": "Cooperativa de Crédito Rural de Iporã (Credisis Iporã)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 232,
+        "codigo": "387",
+        "descricao": "Cooperativa de Crédito Rural de Ouro",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 225,
+        "codigo": "379",
+        "descricao": "Cooperativa de Crédito Rural de Ouro",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 229,
+        "codigo": "383",
+        "descricao": "Cooperativa de Crédito Rural de Salto Veloso",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 64,
+        "codigo": "098",
+        "descricao": "Credialiança Ccr",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 65,
+        "codigo": "098-1",
+        "descricao": "Credicorol Cooperativa de Crédito Rural",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 200,
+        "codigo": "342",
+        "descricao": "Creditas Sociedade de Crédito Direto S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 93,
+        "codigo": "133",
+        "descricao": "Cresol Confederação",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 169,
+        "codigo": "289",
+        "descricao": "DECYSEO Corretora de Câmbio LTDA.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 115,
+        "codigo": "182",
+        "descricao": "Dacasa Financeira S/A",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 251,
+        "codigo": "487",
+        "descricao": "Deutsche Bank S.A. - Banco Alemão",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 227,
+        "codigo": "381",
+        "descricao": "Digital Investimentos Corretora de Valores Ltda.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 281,
+        "codigo": "751",
+        "descricao": "Dresdner Bank Brasil S.A. - Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 218,
+        "codigo": "369",
+        "descricao": "Easynvest (Título Cv S.A.)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 98,
+        "codigo": "140",
+        "descricao": "Easynvest (Título Cv S.A.)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 201,
+        "codigo": "343",
+        "descricao": "FFM Distribuidora de Títulos e Valores Mobiliários Ltda.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 104,
+        "codigo": "149",
+        "descricao": "Facta S.A. Cfi",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 216,
+        "codigo": "367",
+        "descricao": "Ferreira Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 301,
+        "codigo": "840",
+        "descricao": "Fortbrasil - Cfi",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 194,
+        "codigo": "331",
+        "descricao": "Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 166,
+        "codigo": "285",
+        "descricao": "Frente Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 161,
+        "codigo": "278",
+        "descricao": "Genial Investimentos Cvm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 213,
+        "codigo": "364",
+        "descricao": "Gerencianet Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 96,
+        "codigo": "138",
+        "descricao": "Get Money Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 32,
+        "codigo": "064",
+        "descricao": "Goldman Sachs do Brasil Banco Múltiplo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 113,
+        "codigo": "177",
+        "descricao": "Guide Investimentos S.A. Corretora de Valores",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 103,
+        "codigo": "146",
+        "descricao": "Guitta Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 119,
+        "codigo": "189",
+        "descricao": "HS Financeira",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 154,
+        "codigo": "269",
+        "descricao": "HSBC Banco De Investimento",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 108,
+        "codigo": "168",
+        "descricao": "HSBC Finance (Brasil) S.A. (Banco Múltiplo)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 30,
+        "codigo": "062",
+        "descricao": "Hipercard Banco Múltiplo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 92,
+        "codigo": "132",
+        "descricao": "ICBC do Brasil Bm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 253,
+        "codigo": "492",
+        "descricao": "ING Bank N.V.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 156,
+        "codigo": "271",
+        "descricao": "Ib Cctvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 105,
+        "codigo": "157",
+        "descricao": "Icap Do Brasil Ctvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 97,
+        "codigo": "139",
+        "descricao": "Intesa Sanpaolo Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 271,
+        "codigo": "652",
+        "descricao": "Itaú Unibanco Holding S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 199,
+        "codigo": "341",
+        "descricao": "Itaú Unibanco S.A.",
+        "logo": "https://www.itau.com.br/media/dam/m/401670ffac74c13f/original/logo-iti-tropicalia.png"
+    },
+    {
+        "id": 252,
+        "codigo": "488",
+        "descricao": "JPMorgan Chase Bank",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 205,
+        "codigo": "350",
+        "descricao": "KISAM Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 238,
+        "codigo": "399",
+        "descricao": "Kirton Bank S.A. - Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 255,
+        "codigo": "495",
+        "descricao": "La Provincia - Banco de Tucumán",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 172,
+        "codigo": "293",
+        "descricao": "Lastro Rdv Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 72,
+        "codigo": "105",
+        "descricao": "Lecca Cfi S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 102,
+        "codigo": "145",
+        "descricao": "Levycam Ccv Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 159,
+        "codigo": "274",
+        "descricao": "MONEY PLUS Sociedade de Crédito",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 148,
+        "codigo": "259",
+        "descricao": "MONEYCORP Banco de Câmbio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 76,
+        "codigo": "113",
+        "descricao": "Magliano S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 188,
+        "codigo": "323",
+        "descricao": "Mercado Pago (Conta do Mercado Livre)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 209,
+        "codigo": "358",
+        "descricao": "Money Corretora de Câmbio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 88,
+        "codigo": "128",
+        "descricao": "Ms Bank S.A. Banco De Câmbio",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 9,
+        "codigo": "014",
+        "descricao": "Natixis Brasil S.A. Banco Múltiplo",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 207,
+        "codigo": "354",
+        "descricao": "Necton Investimentos S.A Corretora de Títulos e Valores Mobiliários",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 121,
+        "codigo": "191",
+        "descricao": "Nova Futura Ctvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 283,
+        "codigo": "753",
+        "descricao": "Novo Banco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 149,
+        "codigo": "260",
+        "descricao": "Nu Pagamentos S.A (Nubank)",
+        "logo": "https://nubank.com.br/images/nu-icon.png?v=2"
+    },
+    {
+        "id": 52,
+        "codigo": "086",
+        "descricao": "OBOE Crédito Financiamento e Investimento S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 185,
+        "codigo": "319",
+        "descricao": "OM Distribuidora de Títulos e Valores Mobiliários LTDA",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 263,
+        "codigo": "613",
+        "descricao": "Omni Banco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 191,
+        "codigo": "326",
+        "descricao": "PARATI (Crédito, Financiamento e investimento S.A.)",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 183,
+        "codigo": "315",
+        "descricao": "PI Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 226,
+        "codigo": "380",
+        "descricao": "PIC Pay",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 178,
+        "codigo": "306",
+        "descricao": "PORTOPAR Distribuidora de Títulos e Valores Mobiliários",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 170,
+        "codigo": "290",
+        "descricao": "PagSeguro Internet S.A.",
+        "logo": "https://logodownload.org/wp-content/uploads/2019/09/pagbank-logo-0-1.png"
+    },
+    {
+        "id": 147,
+        "codigo": "254",
+        "descricao": "Paraná Banco S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 122,
+        "codigo": "194",
+        "descricao": "Parmetal Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 112,
+        "codigo": "174",
+        "descricao": "Pernambucanas Financ S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 68,
+        "codigo": "100",
+        "descricao": "Planner Corretora de Valores S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 228,
+        "codigo": "382",
+        "descricao": "Portocred Ccf Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 74,
+        "codigo": "108",
+        "descricao": "Portocred S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 58,
+        "codigo": "093",
+        "descricao": "PóloCred Scmepp Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 192,
+        "codigo": "329",
+        "descricao": "QI Sociedade de Crédito Direto S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 165,
+        "codigo": "283",
+        "descricao": "RB Capital Investimentos Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 69,
+        "codigo": "101",
+        "descricao": "Renascença Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 175,
+        "codigo": "299",
+        "descricao": "SOROCRED Crédito, Financiamento E Investimento S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 155,
+        "codigo": "270",
+        "descricao": "Sagitur Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 287,
+        "codigo": "757",
+        "descricao": "Scotiabank Brasil S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 160,
+        "codigo": "276",
+        "descricao": "Senff S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 257,
+        "codigo": "545",
+        "descricao": "Senso Ccvm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 120,
+        "codigo": "190",
+        "descricao": "Servicoop",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 116,
+        "codigo": "183",
+        "descricao": "Socred S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 214,
+        "codigo": "365",
+        "descricao": "Socremo Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 211,
+        "codigo": "362",
+        "descricao": "Souza Barros Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 79,
+        "codigo": "118",
+        "descricao": "Standard Chartered Bi S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 240,
+        "codigo": "404",
+        "descricao": "Standard Chartered Do Brasil S.A. Banco de Investimento",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 124,
+        "codigo": "197",
+        "descricao": "Stone Pagamentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 204,
+        "codigo": "349",
+        "descricao": "Super Gerenciador de Ativos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 198,
+        "codigo": "340",
+        "descricao": "Super Pagamentos e Administração de Meios Eletrônicos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 179,
+        "codigo": "307",
+        "descricao": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 206,
+        "codigo": "352",
+        "descricao": "Torres Corretora de Câmbio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 239,
+        "codigo": "402",
+        "descricao": "Transferwise",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 61,
+        "codigo": "095",
+        "descricao": "Travelex Banco de Câmbio S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 100,
+        "codigo": "143",
+        "descricao": "Treviso Cc S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 91,
+        "codigo": "131",
+        "descricao": "Tullett Prebon Brasil Cvc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 89,
+        "codigo": "129",
+        "descricao": "UBS Brasil Bi S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 10,
+        "codigo": "015",
+        "descricao": "UBS Brasil Cctvm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 242,
+        "codigo": "409",
+        "descricao": "UNIBANCO-UNIAO DE BANCOS BRASILEIROS S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 137,
+        "codigo": "230",
+        "descricao": "Unicard Banco Múltiplo S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 56,
+        "codigo": "091",
+        "descricao": "Unicred Central do Rio Grande do Sul",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 95,
+        "codigo": "136",
+        "descricao": "Unicred Cooperativa LTDA",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 50,
+        "codigo": "084",
+        "descricao": "Unicred Norte do Paraná",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 66,
+        "codigo": "099",
+        "descricao": "Uniprime Central Ccc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 173,
+        "codigo": "296",
+        "descricao": "VISION S.A. Corretora de Câmbio",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 181,
+        "codigo": "310",
+        "descricao": "VORTX Dtvm Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 174,
+        "codigo": "298",
+        "descricao": "Vip’s Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 208,
+        "codigo": "355",
+        "descricao": "Vip’s Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 215,
+        "codigo": "366",
+        "descricao": "Warren Cctvm S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 70,
+        "codigo": "102",
+        "descricao": "XP Investimentos S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 210,
+        "codigo": "360",
+        "descricao": "Zenkey Cc Ltda",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 190,
+        "codigo": "325",
+        "descricao": "Órama Distribuidora de Títulos e Valores Mobiliários S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 202,
+        "codigo": "345",
+        "descricao": "Ótimo Sociedade de Crédito Direto S.A.",
+        "logo": "https://placehold.co/60"
+    },
+    {
+        "id": 203,
+        "codigo": "347",
+        "descricao": "Único Cc Ltda",
+        "logo": "https://placehold.co/60"
+    }
+]
